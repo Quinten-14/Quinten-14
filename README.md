@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [quintenraymaekers.com](quintenraymaekers.com)
+- 👨‍💻 All of my projects are available at [quintenraymaekers.com](https://quintenraymaekers.com/)
 
 - 💬 Ask me about **Web development**
 
