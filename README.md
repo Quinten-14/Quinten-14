@@ -10,18 +10,8 @@
 ## About Me
 I'm Quinten Raymaekers, a passionate student at Campus 19 in Antwerp, Belgium. I'm constantly exploring new technologies and improving my skills.
 
-### Socials
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Instagram](https://www.instagram.com/your-instagram-handle)
-
 ### Currently Working On
-- **C++ Modules from the 42 Common Core**: Brief description of the project.
-- **C++ 00 - 04**: Brief description of the project.
-
-### Learning
-- **Programming Languages**: C, TypeScript, HTML, SCSS.
-- **Frameworks and Libraries**: SvelteKit, React Native.
-- **Other**: App development, web development.
+- **C++ Modules from the 42 Common Core**: Small projects that teach you how to work with OOP in C++
+- **Webserv**: A webserver made with C++
 
 Feel free to connect with me on my socials or check out my projects!
