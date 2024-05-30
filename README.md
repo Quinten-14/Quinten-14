@@ -16,5 +16,7 @@ I'm Quinten Raymaekers, a passionate student at Campus 19 in Antwerp, Belgium. I
 
 Feel free to connect with me on my socials or check out my projects!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=quinten-14&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://myreadme.vercel.app/api/embed/quinten-14?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quinten-14&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    <img src="https://myreadme.vercel.app/api/embed/quinten-14?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />  
+</p>
