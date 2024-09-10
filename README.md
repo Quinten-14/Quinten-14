@@ -18,7 +18,7 @@ Feel free to connect with me on my socials or check out my projects!
 </br>
 </br>
 
-<p align="center">
+<p align="center" display="flex">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quinten-14&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="29%" />
     <img src="https://myreadme.vercel.app/api/embed/quinten-14?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" width="60%" />
 </p>
