@@ -11,7 +11,7 @@
 I'm Quinten Raymaekers, a passionate student at Campus 19 in Antwerp, Belgium. I'm constantly exploring new technologies and improving my skills.
 
 ### Currently Working On
-- **Trancendence**: A Pong webapp with django
+- **Libftpp
 
 Feel free to connect with me on my socials or check out my projects!
 
